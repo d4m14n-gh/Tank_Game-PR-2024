@@ -1,4 +1,4 @@
-# Tank game - WPF
+# Tank game - WPF [Work in progress...]
 ![TankGame](https://github.com/user-attachments/assets/eac0acb9-e95b-41f2-b8dc-a83fe22170c8)
 
 
